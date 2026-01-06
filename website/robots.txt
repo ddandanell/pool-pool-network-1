@@ -1,0 +1,28 @@
+# Robots.txt for EcoPool Bali - Pool Service Website
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://www.ecopoolbali.com/sitemap.xml
+
+# Crawl-delay for polite crawling
+Crawl-delay: 1
+
+# Allow all major search engines
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Slurp
+Allow: /
+
+# Disallow admin areas (if any in future)
+Disallow: /admin/
+Disallow: /api/
+
+# Allow CSS and JS files for proper rendering
+Allow: /css/
+Allow: /js/
+Allow: /images/
