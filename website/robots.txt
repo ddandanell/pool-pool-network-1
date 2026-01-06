@@ -20,7 +20,6 @@ Allow: /
 
 # Disallow admin areas (if any in future)
 Disallow: /admin/
-Disallow: /*.json$
 Disallow: /api/
 
 # Allow CSS and JS files for proper rendering
