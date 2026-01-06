@@ -1,5 +1,7 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
+  "buildCommand": "echo 'Using pre-built website directory'",
+  "outputDirectory": "website",
   "cleanUrls": true,
   "trailingSlash": false,
   "headers": [
@@ -25,43 +27,13 @@
       ]
     },
     {
-      "source": "/website/(.*)",
+      "source": "/(css|js|images)/(.*)",
       "headers": [
         {
           "key": "Cache-Control",
           "value": "public, max-age=31536000, immutable"
         }
       ]
-    }
-  ],
-  "rewrites": [
-    {
-      "source": "/",
-      "destination": "/website/index.html"
-    },
-    {
-      "source": "/pages/:path*",
-      "destination": "/website/pages/:path*"
-    },
-    {
-      "source": "/css/:path*",
-      "destination": "/website/css/:path*"
-    },
-    {
-      "source": "/js/:path*",
-      "destination": "/website/js/:path*"
-    },
-    {
-      "source": "/images/:path*",
-      "destination": "/website/images/:path*"
-    },
-    {
-      "source": "/sitemap.xml",
-      "destination": "/website/sitemap.xml"
-    },
-    {
-      "source": "/robots.txt",
-      "destination": "/website/robots.txt"
     }
   ]
 }
