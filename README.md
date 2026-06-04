@@ -14,7 +14,7 @@ EcoPool Bali is a professional pool service company operating in Bali, Indonesia
 - **Mobile-First**: Touch-friendly navigation with hamburger menu
 - **Accessibility**: ARIA labels and semantic HTML throughout
 - **FAQ Sections**: Interactive accordion-style FAQs on all service pages
-- **WhatsApp Integration**: Direct contact via WhatsApp at +62 822-3756-5997
+- **WhatsApp Integration**: Direct contact via WhatsApp at +62 823-2301-1656
 - **Eco-Friendly Focus**: Emphasis on sustainable pool care practices
 
 ## 📋 Website Structure
@@ -93,7 +93,7 @@ No environment variables required for the static website portion.
 ## 📱 Contact Integration
 
 All contact points use:
-- **WhatsApp**: +62 822-3756-5997  
+- **WhatsApp**: +62 823-2301-1656  
 - **Email**: info@ecopoolbali.com
 - **Office**: Jl. Raya Ubud No. 45, Gianyar, Bali 80571, Indonesia
 
@@ -142,7 +142,7 @@ This is a commercial website. For inquiries, contact info@ecopoolbali.com
 ## 📞 Support
 
 For website issues or pool service inquiries:
-- WhatsApp: +62 822-3756-5997
+- WhatsApp: +62 823-2301-1656
 - Email: info@ecopoolbali.com
 - Hours: Mon-Sat 8:00 AM - 6:00 PM (Bali time)
 
