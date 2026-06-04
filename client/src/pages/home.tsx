@@ -39,7 +39,7 @@ export default function Home() {
                 <li>Canggu & Seminyak</li>
                 <li>Uluwatu & Jimbaran</li>
                 <li>Ubud & Central Bali</li>
-                <li className="pt-2 text-white font-medium">+62 812 3456 7890</li>
+                <li className="pt-2 text-white font-medium">+62 822-3756-5997</li>
               </ul>
             </div>
           </div>
