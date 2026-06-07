@@ -94,7 +94,7 @@ No environment variables required for the static website portion.
 
 All contact points use:
 - **WhatsApp**: +62 823-2301-1656  
-- **Email**: info@ecopoolbali.com
+- **Email**: info@balipoolservice.com
 - **Office**: Jl. Raya Ubud No. 45, Gianyar, Bali 80571, Indonesia
 
 ## 🎨 Design & SEO
@@ -137,13 +137,13 @@ Copyright © 2025 EcoPool Bali. All rights reserved.
 
 ## 🤝 Contributing
 
-This is a commercial website. For inquiries, contact info@ecopoolbali.com
+This is a commercial website. For inquiries, contact info@balipoolservice.com
 
 ## 📞 Support
 
 For website issues or pool service inquiries:
 - WhatsApp: +62 823-2301-1656
-- Email: info@ecopoolbali.com
+- Email: info@balipoolservice.com
 - Hours: Mon-Sat 8:00 AM - 6:00 PM (Bali time)
 
 ---
