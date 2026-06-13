@@ -17,8 +17,9 @@ export function WaterQualitySection() {
             <div className="relative rounded-2xl overflow-hidden shadow-2xl aspect-square lg:aspect-[4/3] group">
                <img 
                 src={waterTexture} 
-                alt="Crystal clear water texture" 
+                alt="Crystal clear water texture — EcoPool Bali's clarity guarantee" 
                 className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"
+                loading="lazy"
               />
               <div className="absolute inset-0 flex items-center justify-center bg-black/10 group-hover:bg-transparent transition-colors">
                  <div className="bg-white/90 backdrop-blur px-8 py-6 rounded-xl shadow-lg max-w-xs text-center border border-white/50">

@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://poolcleaningbali.online/sitemap.xml
+Sitemap: https://baligreenpoolrescue.online/sitemap.xml
+
+# Disallow admin-like paths
+Disallow: /api/
+Disallow: /_next/
