@@ -229,6 +229,12 @@ export default function Home() {
             </div>
             <p>Eco-Friendly Pool Maintenance in Bali</p>
           </div>
+          <div className="container mx-auto px-6 pb-6 text-center text-xs text-white/40">
+            Enjoying villa life in Bali? We also recommend a{" "}
+            <a href="https://mychef.id/" target="_blank" rel="noopener" className="underline hover:text-white/60 transition-colors">private chef in Bali</a>{" "}
+            and{" "}
+            <a href="https://privatetutoringbali.com/" target="_blank" rel="noopener" className="underline hover:text-white/60 transition-colors">private tutors in Bali</a>.
+          </div>
         </div>
       </footer>
     </div>
